@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[M1 Executed]]>
+    </line>
+    <line>
+      <![CDATA[M13 Executed]]>
+    </line>
+    <line>
+      <![CDATA[M20 Executed]]>
+    </line>
+    <line>
+      <![CDATA[M25 Executed]]>
+    </line>
+    <line>
+      <![CDATA[M33 Executed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-12-02T16:15:54 IST" name="Default suite" finished-at="2024-12-02T16:15:54 IST" duration-ms="107">
+    <groups>
+    </groups>
+    <test started-at="2024-12-02T16:15:54 IST" name="Default test" finished-at="2024-12-02T16:15:54 IST" duration-ms="107">
+      <class name="testNG.PracticeClassForTestNG">
+        <test-method signature="m1()[pri:0, instance:testNG.PracticeClassForTestNG@a530d0a]" started-at="2024-12-02T16:15:54 IST" name="m1" finished-at="2024-12-02T16:15:54 IST" duration-ms="24" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[M1 Executed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method signature="m13()[pri:0, instance:testNG.PracticeClassForTestNG@a530d0a]" started-at="2024-12-02T16:15:54 IST" name="m13" finished-at="2024-12-02T16:15:54 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[M13 Executed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- m13 -->
+        <test-method signature="m20()[pri:0, instance:testNG.PracticeClassForTestNG@a530d0a]" started-at="2024-12-02T16:15:54 IST" name="m20" finished-at="2024-12-02T16:15:54 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[M20 Executed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- m20 -->
+        <test-method signature="m25()[pri:0, instance:testNG.PracticeClassForTestNG@a530d0a]" started-at="2024-12-02T16:15:54 IST" name="m25" finished-at="2024-12-02T16:15:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[M25 Executed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- m25 -->
+        <test-method signature="m33()[pri:0, instance:testNG.PracticeClassForTestNG@a530d0a]" started-at="2024-12-02T16:15:54 IST" name="m33" finished-at="2024-12-02T16:15:54 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[M33 Executed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- m33 -->
+      </class> <!-- testNG.PracticeClassForTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
